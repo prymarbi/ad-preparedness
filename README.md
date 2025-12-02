@@ -1,6 +1,6 @@
 # AD Preparedness
 
-This repository contains AD Preparedness, a freely available but non-exhaustive guide to protecting an on premise Active Directory system from a takeover attempt.  
+This repository contains AD Preparedness, a freely available but non-exhaustive guide to protecting an on-premise Active Directory system from a takeover attempt.  
 The goal is to make the material accessible, reusable, and open for collaboration.
 
 ## Contents
